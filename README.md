@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 
 
-- 🌱 I’m currently learning **React,Js,C#**
+- 🌱 I’m currently learning **Js,C#**
 
 - 📫 How to reach me **merve.ozalp034@gmail.com**
 
